@@ -5,4 +5,5 @@
       <map />
     </option>
   </component>
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../base-module" rootProjectPath="$MODULE_DIR$/../../base-module" />
 </module>
